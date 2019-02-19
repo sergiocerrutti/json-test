@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "version": 31,
+    "www_path_prefix": "https://www.crunchbase.com",
+    "api_path_prefix": "https://api.crunchbase.com",
+    "image_path_prefix": "http://public.crunchbase.com/t_api_images/" },
+  "data": {
+    "paging": {
+      "total_items": 732838,
+      "number_of_pages": 7329,
+      "current_page": 1,
+      "sort_order": "created_at DESC",
+      "items_per_page": 100,
+      "next_page_url": "https://api.crunchbase.com/v3.1/organizations?page=2&sort_order=created_at%20DESC&items_per_page=100",
+      "prev_page_url": null,
+      "key_set_url": "https://api.crunchbase.com/v3.1/organizations?prev_at=1550592346&prev_uuid=6dae0b8a424844c8b09f121e8dc04ab4&sort_order=created_at%20DESC&items_per_page=100",
+      "collection_url": "https://api.crunchbase.com/v3.1/organizations",
+      "updated_since": null
+    },
+    "items": [
+      {
+        "type": "OrganizationSummary",
+        "uuid": "3c50856597204380bee0d2ad95308921",
+        "properties": {
+          "permalink": "gntech-laboratory",
+          "api_path": "organizations/gntech-laboratory",
+          "web_path": "organization/gntech-laboratory",
+          "api_url": "https://api.crunchbase.com/v3.1/organizations/gntech-laboratory",
+          "name": "GnTech Laboratory",
+          "stock_exchange": null,
+          "stock_symbol": null,
+          "primary_role": "company",
+          "short_description": "GnTech is a biotechnology company that focuses on production of medical reports from human genetic sequencing.",
+          "profile_image_url": "http://public.crunchbase.com/t_api_images/ruhka399sadjaw4ptx4e",
+          "domain": "med.br/",
+          "homepage_url": "https://gntech.med.br/",
+          "facebook_url": "https://www.facebook.com/gntechtests",
+          "twitter_url": "https://twitter.com/Gntechtests",
+          "linkedin_url": "https://www.linkedin.com/company/gntech-tests",
+          "city_name": "Florianópolis",
+          "region_name": "Santa Catarina",
+          "country_code": "Brazil",
+          "created_at": 1550592729,
+          "updated_at": 1550592729
+        }
+      },
+      {
+        "type": "OrganizationSummary",
+        "uuid": "bbc7c607b49e40689884e857a2dbeb9f",
+        "properties": {
+          "permalink": "salesright",
+          "api_path": "organizations/salesright",
+          "web_path": "organization/salesright",
+          "api_url": "https://api.crunchbase.com/v3.1/organizations/salesright",
+          "name": "SalesRight",
+          "stock_exchange": null,
+          "stock_symbol": null,
+          "primary_role": "company",
+          "short_description": "B2B SaaS",
+          "profile_image_url": "http://public.crunchbase.com/t_api_images/fwbxolp09huwzfborzlw",
+          "domain": "salesright.co",
+          "homepage_url": "https://www.salesright.co",
+          "facebook_url": "https://www.facebook.com/SalesRightCo/",
+          "twitter_url": "https://twitter.com/SalesRightCo/",
+          "linkedin_url": "https://www.linkedin.com/company/salesright/",
+          "city_name": "Halifax",
+          "region_name": "Nova Scotia",
+          "country_code": "Canada",
+          "created_at": 1550592623,
+          "updated_at": 1550592623
+        }
+      }
+    ]
+  }
+}
